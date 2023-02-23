@@ -1,5 +1,2 @@
-# Ebook-store
+# Ebook-store app.
 
-
-
-https://sanoj12.github.io/Ebook-store/index.hbs
